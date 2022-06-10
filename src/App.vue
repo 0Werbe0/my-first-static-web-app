@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "Kamil. Jest OK :)"
+      value: "Kamil. Jest OK Hurra :)"
     };
   }
 };
